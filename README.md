@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Subhashree+Mohan+Swain.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&width=735&lines=Hey!+Welcome+to+my+profile.;I'm+Subhashree+Mohan+Swain.)](https://git.io/typing-svg)
 
 # WELCOME TO MY WORLD  
 
